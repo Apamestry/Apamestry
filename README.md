@@ -10,9 +10,9 @@ Certainly! Here's a GitHub bio tailored for you:
 🌟 **Passionate** about coding, software development, and exploring new technologies. Currently diving deep into the world of programming and eager to contribute to open-source projects and collaborate with like-minded individuals.
 
 🔧 **Skills & Interests:**
-- Programming Languages: Python, Java, C++,C.
+- Programming Languages: Python, Java, C++, C, CSS, JS,PHP.
 - Technologies: Web Development, Machine Learning, Software Development.
-- Projects: 
+- Projects: Fcae Recognition Attendance System
 
 💬 **Feel free to connect** and explore my repositories! Open to new opportunities and collaborations.
 
