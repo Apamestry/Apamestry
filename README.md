@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Apamestry
-Certainly! Here's a GitHub bio tailored for you:
-
----
-
-### Tejas Mestry
+- 👋 Hi, I’m Tejas Mestry
 
 👨‍💻 **Computer Science Student** at Xaviers College, Mapusa, Goa
 
