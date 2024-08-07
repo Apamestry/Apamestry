@@ -11,7 +11,7 @@ Certainly! Here's a GitHub bio tailored for you:
 
 🔧 **Skills & Interests:**
 - Programming Languages: Python, Java, C++,C.
-- Technologies: Web Development, Machine Learning, Software Engeering.
+- Technologies: Web Development, Machine Learning, Software Development.
 - Projects: 
 
 💬 **Feel free to connect** and explore my repositories! Open to new opportunities and collaborations.
