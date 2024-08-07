@@ -7,7 +7,7 @@
 🔧 **Skills & Interests:**
 - Programming Languages: Python, Java, C++, C, CSS, JS,PHP.
 - Technologies: Web Development, Machine Learning, Software Development.
-- Projects: Fcae Recognition Attendance System
+- Projects: Face Recognition Attendance System
 
 💬 **Feel free to connect** and explore my repositories! Open to new opportunities and collaborations.
 
